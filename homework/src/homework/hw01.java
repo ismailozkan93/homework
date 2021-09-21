@@ -18,7 +18,7 @@ public class hw01 {
 			char ch = a.charAt(i);
 			b = b+ch;
 		}return b;
-		
+	//homework	
 		
 	}
 }
